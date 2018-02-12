@@ -1,0 +1,10 @@
+Hello World!
+argc 2 argv[0] ./refresh argv[1]= name.txt
+Name Bob Age 35
+Name Mary Age 12
+Name Jim Age 22
+Name Amy Age 45
+Amy
+Bob
+Jim
+Mary
